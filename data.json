@@ -1,0 +1,103 @@
+{
+    "header_nav": [
+        {
+            "title": "About",
+            "link": "/about"
+        },
+        {
+            "title": "Blog",
+            "link": "/blog"
+        },
+        {
+            "title": "Pixel Art",
+            "link": "/pixel_art"
+        },
+        {
+            "title": "Test",
+            "link": "/test"
+        }
+    ],
+    "hero": [
+        {
+            "heading": "John Di Girolamo",
+            "subheading": "Welcome",
+            "color": "#10111f",
+            "cta_url": "/",
+            "theme": "elegant",
+            "full": true,
+            "cta_text": "Test"
+        }
+    ],
+    "featured_pixel_art": [
+        {
+            "title": "Red Space Viking",
+            "images": [
+                "./images/test1.jpg",
+                "./images/test1.jpg",
+                "./images/test1.jpg",
+                "./images/test1.jpg",
+                "./images/test1.jpg"
+            ]
+        },
+        {
+            "title": "Blue Space Viking",
+            "images": [
+                "./images/test1.jpg"
+            ]
+        },
+        {
+            "title": "Blue Space Viking",
+            "images": [
+                "./images/test1.jpg"
+            ]
+        },
+        {
+            "title": "Blue Space Viking",
+            "images": [
+                "./images/test1.jpg"
+            ]
+        },
+        {
+            "title": "Blue Space Viking",
+            "images": [
+                "./images/test1.jpg"
+            ]
+        },
+        {
+            "title": "Blue Space Viking",
+            "images": [
+                "./images/test1.jpg"
+            ]
+        },
+        {
+            "title": "Blue Space Viking",
+            "images": [
+                "./images/test1.jpg"
+            ]
+        },
+        {
+            "title": "Blue Space Viking",
+            "images": [
+                "./images/test1.jpg"
+            ]
+        },
+        {
+            "title": "Blue Space Viking",
+            "images": [
+                "./images/test1.jpg"
+            ]
+        },
+        {
+            "title": "Blue Space Viking",
+            "images": [
+                "./images/test1.jpg"
+            ]
+        },
+        {
+            "title": "Blue Space Viking",
+            "images": [
+                "./images/test1.jpg"
+            ]
+        }
+    ]
+}
